@@ -1,5 +1,15 @@
+#TwitterSentiment
 
-<h1> Getting Started </h1>
+An application that performs sentiment analysis on tweets from Twitter about some topic and displays the results in real time.
 
-To run the application locally:
+#Install Dependencies
 
+npm install
+
+#Prerequisites:
+ - Node.js is installed.
+ - MongoDB is installed and running
+
+#Run the application
+
+node app.js
