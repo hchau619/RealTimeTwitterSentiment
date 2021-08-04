@@ -12,10 +12,10 @@ var port = 3000;
 var mongoose = require("mongoose");
 var appState = { inUse: false, keyword : ""};
 var twit = new Twitter({
-	consumer_key: "MpexGqEOaiXzINTk6MjjLJDto",
-	consumer_secret: "BSsXF0DSv8JLVklPbNlXPe96jaOVzKG08uo4PENKghmb1QyMz1",
-	access_token_key: "3172708812-6WyVHiyyQCW2F4y1irkxCZpRS2cu1EgrJ2Lvi91",
-	access_token_secret: "YGLVoWaXG2snGd6ki3OT6r9ti8q88zuZOGIKyY0VdZth3"
+	consumer_key: "",
+	consumer_secret: "",
+	access_token_key: "",
+	access_token_secret: ""
 });
 var result;
 
